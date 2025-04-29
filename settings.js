@@ -15,28 +15,28 @@ WhatsApp Me : 263780166288
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263780166288"
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
-global.namaowner2 = "ʟᴏʀᴅ ᴍᴀʟᴠɪɴ"
+global.owner = "918698402759"
+global.namaowner = "RUSH MASTER"
+global.namaowner2 = "ʟᴏʀᴅ RUSH MASTER"
 
 //======== Setting Bot & Link ========//
 global.namabot = "ᴍᴋ-𝚋𝚘𝚝" 
 global.namabot2 = "ᴍᴋ-𝚋𝚘𝚝"
 global.version = "v2"
-global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋᴊɴɢ"
+global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ RUSH MASTER"
 global.linkgc = 'https://youtube.com/@malvintech2'
 global.linksaluran = "https://youtube.com/@malvintech2"
 global.linkyt = 'https://youtube.com/@malvintech2'
 global.linktele = "https://t.me/malvintech"
-global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴋ-ʙᴏᴛ"
-global.author = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ RUSH-ʙᴏᴛ"
+global.author = "RUZH MASTER"
 
 //========== Setting Event ==========//
-global.welcome = true
+global.welcome = false
 global.autoread = false
 global.anticall = false
-global.autoreadsw = false
-global.owneroff = false
+global.autoreadsw = true
+global.owneroff = true
 global.antibug = true
 
 
